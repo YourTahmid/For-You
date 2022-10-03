@@ -347,3 +347,7 @@ ul{
 .copyr{
     text-align: center;
 }
+
+.man li a:hover{
+    color: #ff523b;
+}
